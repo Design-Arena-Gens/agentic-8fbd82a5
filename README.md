@@ -1,3 +1,24 @@
+## Creator Agent - LinkedIn Post Studio & Lead Manager
+
+- Generate LinkedIn posts with proven templates
+- Build charts/diagrams and export as PNG
+- Import, deduplicate, score, and export leads (CSV)
+- Connect LinkedIn (OAuth) and publish posts
+
+Environment variables (for LinkedIn OAuth):
+
+```
+LINKEDIN_CLIENT_ID=""
+LINKEDIN_CLIENT_SECRET=""
+NEXT_PUBLIC_BASE_URL="https://agentic-8fbd82a5.vercel.app"
+```
+
+Dev:
+
+```
+npm i
+npm run dev
+```
 # AI-Generated Project
 
 This project was automatically generated using AI-powered code generation tools.
